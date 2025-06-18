@@ -46,11 +46,3 @@ SafeDrive-AI/
 └── README.md
 
 
-##  Acknowledgment
-
-This project is **inspired by the original drowsiness detector by [@shsarv](https://github.com/shsarv)**.  
-We’ve customized and enhanced it for educational and portfolio purposes.
-
-Credit to:
-- @shsarv for the original idea
-- OpenCV & dlib communities for foundational tools
